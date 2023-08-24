@@ -1,7 +1,16 @@
 .main {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #64857F;
+}
+
+svg text.sud{
+    fill: rgb(97, 37, 87) !important;
+}
+
+svg g path.cap{
+    fill: red !important;
 }
