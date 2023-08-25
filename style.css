@@ -5,27 +5,27 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #64857F;
+    background-color:#65852d;
 }
 
 svg text.nort{
-    fill: rgb(97, 37, 87) !important;
+    fill: #3a153d !important;
 }
 
 svg text.nord{
-    fill: rgb(97, 37, 87) !important;
+    fill: #443e1a !important;
 }
 
 svg text.ceo{
-    fill: rgb(97, 37, 87) !important;
+    fill: #154740 !important;
 }
 
 svg text.sud{
-    fill: rgb(97, 37, 87) !important;
+    fill: #0b2e59 !important;
 }
 
 svg text.sul{
-    fill: rgb(97, 37, 87) !important;
+    fill: #143a17 !important;
 }
 
 svg g path.cap{
@@ -44,5 +44,5 @@ svg {
 }
 
 .shadow {
-    text-shadow: 2px 2px 5px red;
+    text-shadow: 2px 2px 5px black;
 }
