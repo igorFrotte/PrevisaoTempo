@@ -8,7 +8,23 @@
     background-color: #64857F;
 }
 
+svg text.nort{
+    fill: rgb(97, 37, 87) !important;
+}
+
+svg text.nord{
+    fill: rgb(97, 37, 87) !important;
+}
+
+svg text.ceo{
+    fill: rgb(97, 37, 87) !important;
+}
+
 svg text.sud{
+    fill: rgb(97, 37, 87) !important;
+}
+
+svg text.sul{
     fill: rgb(97, 37, 87) !important;
 }
 
