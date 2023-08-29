@@ -1,2 +1,2 @@
 # PrevisaoTempo
-Previsao do tempo
+Previsao do tempo de todas as capitais brasileiras em tempo real.
