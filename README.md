@@ -1,7 +1,7 @@
 # PrevisaoTempo
 Previsao do tempo de todas as capitais brasileiras em tempo real.
 
-Link: https://igorfrotte.github.io/PrevisaoTempo/
+https://igorfrotte.github.io/PrevisaoTempo/
 
 projeto com HTML, CSS e JS puro.
 
